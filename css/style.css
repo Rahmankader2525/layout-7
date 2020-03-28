@@ -1,0 +1,143 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: lightgrey:;
+}
+.container{
+	margin: 0 auto;
+	width: 90%;
+}
+.logo{
+	height: 50px;
+	background-color: #e17055;
+}
+.logo pre{
+	font-size: 17px;
+	color: black;
+	padding-top: 15px;
+	font-style: italic;
+}
+
+.logo img{
+	width: 65px;
+	float: left;
+	padding-top: 7px;
+	padding-left: 5px;
+}
+.section{
+	height: 210px;
+	background-color: #636e72;
+	margin: 15px 0;
+}
+.section h3, h2{
+	color: orange;
+	margin: 0;
+	text-align: center;
+	padding-top: 45px;
+
+}
+.section h2{
+	font-size: 35px;
+	padding-top: 28px;
+}
+.picture{
+	margin: 15px 0;
+	display: flex;
+	justify-content: space-between;
+}
+.picture-iteam{
+	height: 200px;
+	width: 280px;
+	background-color: gray;
+}
+.picture-iteam p{
+	text-align: center;
+}
+.picture-iteam h4{
+	text-align: center;
+	border: 2px solid ;
+	width: 180px;
+	margin:15px 50px;
+	background-color: #FFC312;
+}
+.footer{
+	height: 80px;
+	background-color: gray;
+}
+.footer pre{
+	font-size: 16px;
+	color: black;
+	padding-top: 29px;
+	font-style: italic;
+	font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
